@@ -2,7 +2,6 @@
 CAAnimationGroup Category that make animation group be sequential.
 
 ##Examples
----------
 ```objc
 // move animation(to bottom)
 CABasicAnimation *moveToBottom = [CABasicAnimation
