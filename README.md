@@ -34,7 +34,7 @@ See the demo project for more examples, or http://qiita.com/kazu0620/items/d152d
 Install with [CocoaPods](http://cocoapods.org) by adding the following to your Podfile:
 
 ``` ruby
-platform :ios, '7.0'
+platform :ios, '6.0'
 pod 'CAAnimationGroup-DurationAdjuster', '~> 0.0.1'
 ```
 
